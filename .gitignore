@@ -1,0 +1,16 @@
+# Compiled executables
+main
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.swp
